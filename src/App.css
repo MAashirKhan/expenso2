@@ -33,12 +33,14 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin: 20px 0;
 }
 .Logo{
-  height: 150px;
-  width: 150px;
+  height: 100px;
+  width: 100px;
   border-radius: 30%;
-  padding: 20px;
+  padding: 2px;
+  /* background-color: #fff; */
 }
 h1 {
   letter-spacing: 1px;
